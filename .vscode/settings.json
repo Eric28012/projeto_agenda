@@ -1,0 +1,8 @@
+{
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "diffEditor.renderSideBySide": false,
+    "workbench.settings.editor": "json",
+    "files.autoSave": "afterDelay"
+}
